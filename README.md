@@ -55,7 +55,7 @@ COMPUTERPROJECT/
 ## Como Executar
 -Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/projeto-final-java.git
+   https://github.com/measana/LTP-finalProject.git
 - Abra o projeto na IDE de sua preferência.
 - Compile e execute a classe principal (Main.java).
 - Utilize o menu interativo para cadastrar, alterar, excluir ou consultar computadores.
